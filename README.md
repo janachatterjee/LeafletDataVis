@@ -2,7 +2,7 @@
 GeoMapping and Data Visualization with Leaflet Project
 
 
-Assignment - Visualizing Data with Leaflet
+Project - Visualizing Data with Leaflet
 
 Background
 
